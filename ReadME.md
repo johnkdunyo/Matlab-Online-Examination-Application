@@ -23,6 +23,8 @@ Open the matlab functions folder and open and run the START.m scripts
 
 Algorithm 
 
+![Algorithm Flowchart](https://github.com/johnkdunyo/Matlab-Online-Examination-Application/blob/master/flowChart11.jpg)
+
 For simplicity, two courses are provided: 
 	Electrical Machines ---------- COE 198
 	Basic Electronics ------------- ME 254
